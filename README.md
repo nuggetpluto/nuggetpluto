@@ -20,11 +20,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nuggetpluto.nuggetpluto&"  />
-</div>
-
 ###
 
 <h3 align="left">👩‍💻 Обо мне:</h3>
