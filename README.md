@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="300" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="Smolverse GIF" />
+  <img height="300" width="500" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="Smolverse GIF" />
 </div>
 
 ###
